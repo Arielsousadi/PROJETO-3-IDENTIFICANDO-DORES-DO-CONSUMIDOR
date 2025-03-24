@@ -1,8 +1,10 @@
 # PROJETO-3-IDENTIFICANDO-DORES-DO-CONSUMIDOR
-## Geradores de Problemas:                                                        
-**Ariel Sousa**
-**Vivian**
-**Livia**
+**Geradores de Problemas:**                                                        
+*Ariel Sousa*
+
+*Vivian*
+
+*Livia*
 
 *Problemas Identificados:*
 
@@ -22,8 +24,9 @@ ARIEL=
 
 VIVIAN=
 
-  -1- Dificuldade em concluir a compra devido a processos complicados
-  -2- Falta de atualização de aplicativos
+  1- Dificuldade em concluir a compra devido a processos complicados
+  
+  2- Falta de atualização de aplicativos
   
   3- Falta de privacidade e segurança em plataformas digitais
   
@@ -47,7 +50,7 @@ VIVIAN=
   
   6- Sobrecarga de notificações de aplicativos e e-mails
 
-  *soluções para o Ariel:*
+  **soluções para o Ariel:**
   
   vivian= 
   
@@ -58,15 +61,17 @@ VIVIAN=
   3- Utilizar fotos em que mostrem o produto de diferentes ângulos
   
   livia=
+  
   4- corrigir bugs rapidamente com atualizações frequentes
 
   5- Implementar atendimento via chatbot com respostas rápidas
   
   6- Implementar um sistema de notificações que informe os usuários sobre novas atualizações.
   
-   *soluções para o vivian:*
+   **soluções para o vivian:**
    
   ariel= 
+  
   1- Simplificar o processo de compra com menos etapas
   
   2- Criar uma equipe dedicada à manutenção e atualização contínua do app
@@ -74,15 +79,17 @@ VIVIAN=
   3- não entrar em site duvidosos e ter um bom anti virus
   
   livia=
+  
   4- Implementar uma barra de busca eficiente com filtros avançados
   
   5- Criar um cronograma de atividades com horários fixos para cada tarefa
   
   6- Ler avaliações e procurar recomendações antes de comprar.
   
-  *soluções para o livia:*
+  **soluções para o livia:**
   
   ariel= 
+  
   1- Criar versões mais básicas e econômicas dos produtos
   
   2- Permitir que o usuário customize o layout de formas simples tipo trocando o tema
@@ -90,6 +97,7 @@ VIVIAN=
   3- Implementar um tour guiado pelo app na primeira utilização
   
   livian=
+  
   4- Utilizar metodologias ágeis, como Scrum ou Kanban
   
   5- Oferecer uma opção web mais leve do aplicativo para dispositivos menos potentes
