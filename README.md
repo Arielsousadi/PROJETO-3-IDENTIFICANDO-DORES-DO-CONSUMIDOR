@@ -7,6 +7,7 @@ Vivian
 Livia Mota
 
 *Problemas Identificados:*
+
 ARIEL=
 
   1- Dificuldade em encontrar produtos de qualidade online 
@@ -49,7 +50,7 @@ VIVIAN=
   
   6- Sobrecarga de notificações de aplicativos e e-mails
 
-  soluções para o Ariel:
+  *soluções para o Ariel:*
   
     vivian= 
   
@@ -66,7 +67,7 @@ VIVIAN=
   
   6- Implementar um sistema de notificações que informe os usuários sobre novas atualizações.
   
-   soluções para o vivian:
+   *soluções para o vivian:*
    
     ariel= 
   1- Simplificar o processo de compra com menos etapas
@@ -82,7 +83,7 @@ VIVIAN=
   
   6- Ler avaliações e procurar recomendações antes de comprar.
   
-  soluções para o livia:
+  *soluções para o livia:*
   
     ariel= 
   1- Criar versões mais básicas e econômicas dos produtos
