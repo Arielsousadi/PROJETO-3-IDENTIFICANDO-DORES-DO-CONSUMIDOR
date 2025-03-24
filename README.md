@@ -1,10 +1,8 @@
 # PROJETO-3-IDENTIFICANDO-DORES-DO-CONSUMIDOR
-Geradores de Problemas:                                                        
-Ariel Sousa
-
-Vivian
-
-Livia Mota
+## Geradores de Problemas:                                                        
+**Ariel Sousa**
+**Vivian**
+**Livia**
 
 *Problemas Identificados:*
 
@@ -24,9 +22,8 @@ ARIEL=
 
 VIVIAN=
 
-  1- Dificuldade em concluir a compra devido a processos complicados
-  
-  2- Falta de atualização de aplicativos
+  -1- Dificuldade em concluir a compra devido a processos complicados
+  -2- Falta de atualização de aplicativos
   
   3- Falta de privacidade e segurança em plataformas digitais
   
@@ -92,8 +89,9 @@ VIVIAN=
   
   3- Implementar um tour guiado pelo app na primeira utilização
   
-    ivian=
+  livian=
   4- Utilizar metodologias ágeis, como Scrum ou Kanban
+  
   5- Oferecer uma opção web mais leve do aplicativo para dispositivos menos potentes
   
   6-Utilizar modos "não perturbe" ou "silenciar" para evitar distrações excessivas.
