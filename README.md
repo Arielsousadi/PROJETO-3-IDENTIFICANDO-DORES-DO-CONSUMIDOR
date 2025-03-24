@@ -52,7 +52,7 @@ VIVIAN=
 
   *soluções para o Ariel:*
   
-    vivian= 
+  vivian= 
   
   1- Priorizar sites com certificação de segurança e política de devolução clara
   
@@ -60,7 +60,7 @@ VIVIAN=
   
   3- Utilizar fotos em que mostrem o produto de diferentes ângulos
   
-    livia=
+  livia=
   4- corrigir bugs rapidamente com atualizações frequentes
 
   5- Implementar atendimento via chatbot com respostas rápidas
@@ -69,14 +69,14 @@ VIVIAN=
   
    *soluções para o vivian:*
    
-    ariel= 
+  ariel= 
   1- Simplificar o processo de compra com menos etapas
   
   2- Criar uma equipe dedicada à manutenção e atualização contínua do app
   
   3- não entrar em site duvidosos e ter um bom anti virus
   
-    livia=
+  livia=
   4- Implementar uma barra de busca eficiente com filtros avançados
   
   5- Criar um cronograma de atividades com horários fixos para cada tarefa
@@ -85,16 +85,15 @@ VIVIAN=
   
   *soluções para o livia:*
   
-    ariel= 
+  ariel= 
   1- Criar versões mais básicas e econômicas dos produtos
   
   2- Permitir que o usuário customize o layout de formas simples tipo trocando o tema
   
   3- Implementar um tour guiado pelo app na primeira utilização
   
-    vivian=
+    ivian=
   4- Utilizar metodologias ágeis, como Scrum ou Kanban
-  
   5- Oferecer uma opção web mais leve do aplicativo para dispositivos menos potentes
   
   6-Utilizar modos "não perturbe" ou "silenciar" para evitar distrações excessivas.
